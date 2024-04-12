@@ -1,7 +1,7 @@
 # Rodrigo Ribeiro
 ### Fullstack Developer
 
-⤷ I am a Developer computer. Passionate about the programming, currently studying more and more!
+⤷ I am a Web Developer. Passionate about the programming, currently studying more and more!
 
  <a aligh="left" href="mailto:ribeiro.rodrigodasilva@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/rodrigo-ribeiro-programador/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
