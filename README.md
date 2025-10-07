@@ -7,7 +7,7 @@
 
 ⚐ Based in Guajeru-Ba
 
-ϟ Currently working on a bot builder at Code7 actively using ReactJS and NodeJS
+ϟ Currently working on a bot builder at Ligo actively using ReactJS and NodeJS
 
 
 
